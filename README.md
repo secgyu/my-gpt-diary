@@ -1,3 +1,6 @@
+# 바로가기
+https://my-gpt-diary.vercel.app
+
 # Task
 
 - [x] React install
